@@ -1,6 +1,5 @@
 # Sample Hardhat Project
-
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+A practice project to use etherjs, react, hardhat(testing and deployment), metamask, solidity that allows users to buy tickets via blockchain. Reason for such service to be deployed on blockchain is to prevent bot ticket buyers as well as blackmarket.
 
 Try running some of the following tasks:
 
